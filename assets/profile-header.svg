@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Emil Alizada — Cybersecurity, DevOps, Secure Backend Engineering</title>
+  <desc id="desc">Dark technical profile banner for Emil Alizada.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="55%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#94a3b8" stroke-width="1" opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+  <rect x="64" y="54" width="6" height="150" rx="3" fill="url(#accent)"/>
+  <text x="96" y="105" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Emil Alizada</text>
+  <text x="98" y="150" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22">CYBERSECURITY · DEVOPS · SECURE BACKEND</text>
+  <text x="98" y="195" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="21">Security-minded engineer working across applications, infrastructure, and delivery.</text>
+  <g transform="translate(890 70)">
+    <circle cx="92" cy="82" r="70" fill="none" stroke="#22d3ee" stroke-width="2" opacity=".35"/>
+    <circle cx="92" cy="82" r="46" fill="none" stroke="#34d399" stroke-width="2" opacity=".35"/>
+    <circle cx="92" cy="82" r="7" fill="#34d399"/>
+    <path d="M92 12 V152 M22 82 H162" stroke="#64748b" stroke-width="1" opacity=".28"/>
+    <path d="M43 33 L141 131 M141 33 L43 131" stroke="#64748b" stroke-width="1" opacity=".18"/>
+  </g>
+  <text x="98" y="250" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">BAKU, AZERBAIJAN  /  BUILD · BREAK · UNDERSTAND · SECURE</text>
+</svg>
