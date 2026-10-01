@@ -82,12 +82,14 @@ I’m especially interested in building systems that are **secure by design**, o
 
 ## Selected Work
 
-I’m building a focused set of public projects that demonstrate how I approach security, infrastructure, and backend engineering:
+Four flagship projects cover the same three areas I want my profile to communicate: **security, infrastructure, and backend engineering**.
 
-- [**DevSecOps Pipeline**](https://github.com/EmilAlizada/devsecops-pipeline) — secure CI/CD, container hardening, SAST, dependency auditing, and image scanning
-- [**Secure Django API**](https://github.com/EmilAlizada/secure-django-api) — JWT authentication, owner-scoped authorization, PostgreSQL, throttling, security testing, and CI gates
-- [**Kubernetes Security Lab**](https://github.com/EmilAlizada/kubernetes-security-lab) — restricted Pod Security, non-root workloads, default-deny networking, resource governance, and security regression tests
-- [**Python Security Toolkit**](https://github.com/EmilAlizada/python-security-toolkit) — file integrity, cryptographic hashing, HTTP security headers, IOC extraction, authentication-log analysis, tests, and CLI automation
+| Project | Focus | Main |
+|---|---|---|
+| [**DevSecOps Pipeline**](https://github.com/EmilAlizada/devsecops-pipeline) | CI/CD, Docker hardening, SAST, dependency auditing, Trivy | [![CI / Security](https://github.com/EmilAlizada/devsecops-pipeline/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/EmilAlizada/devsecops-pipeline/actions/workflows/ci.yml) |
+| [**Secure Django API**](https://github.com/EmilAlizada/secure-django-api) | JWT, owner-scoped authorization, PostgreSQL, throttling, API security | [![CI / Security](https://github.com/EmilAlizada/secure-django-api/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/EmilAlizada/secure-django-api/actions/workflows/ci.yml) |
+| [**Kubernetes Security Lab**](https://github.com/EmilAlizada/kubernetes-security-lab) | Pod Security, non-root workloads, NetworkPolicy, policy regression tests | [![Kubernetes Security Checks](https://github.com/EmilAlizada/kubernetes-security-lab/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/EmilAlizada/kubernetes-security-lab/actions/workflows/ci.yml) |
+| [**Python Security Toolkit**](https://github.com/EmilAlizada/python-security-toolkit) | File integrity, hashing, HTTP headers, IOC extraction, log analysis | [![Python Security Toolkit CI](https://github.com/EmilAlizada/python-security-toolkit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/EmilAlizada/python-security-toolkit/actions/workflows/ci.yml) |
 
 The goal is **clear documentation, architecture decisions, reproducible setup, and security reasoning** rather than repository quantity.
 
