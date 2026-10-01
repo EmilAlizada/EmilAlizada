@@ -82,14 +82,14 @@ I’m especially interested in building systems that are **secure by design**, o
 
 ## Selected Work
 
-I’m currently building a focused set of public projects that demonstrate the same areas I work in professionally:
+I’m building a focused set of public projects that demonstrate how I approach security, infrastructure, and backend engineering:
 
-- **DevSecOps pipeline** — secure CI/CD, containerization, automated scanning and deployment
-- **Secure Django API** — authentication, PostgreSQL, secure configuration and testing
-- **Kubernetes security lab** — deployment hardening, observability and practical security controls
-- **Python security toolkit** — small defensive automation and security utilities
+- [**DevSecOps Pipeline**](https://github.com/EmilAlizada/devsecops-pipeline) — secure CI/CD, container hardening, SAST, dependency auditing, and image scanning
+- [**Secure Django API**](https://github.com/EmilAlizada/secure-django-api) — JWT authentication, owner-scoped authorization, PostgreSQL, throttling, security testing, and CI gates
+- **Kubernetes Security Lab** — planned: deployment hardening, observability, and practical cluster security controls
+- **Python Security Toolkit** — planned: small defensive automation and security utilities
 
-These repositories will prioritize **clear documentation, architecture decisions, reproducible setup, and security reasoning** over project quantity.
+The goal is **clear documentation, architecture decisions, reproducible setup, and security reasoning** rather than repository quantity.
 
 ---
 
