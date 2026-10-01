@@ -87,7 +87,7 @@ I’m building a focused set of public projects that demonstrate how I approach 
 - [**DevSecOps Pipeline**](https://github.com/EmilAlizada/devsecops-pipeline) — secure CI/CD, container hardening, SAST, dependency auditing, and image scanning
 - [**Secure Django API**](https://github.com/EmilAlizada/secure-django-api) — JWT authentication, owner-scoped authorization, PostgreSQL, throttling, security testing, and CI gates
 - [**Kubernetes Security Lab**](https://github.com/EmilAlizada/kubernetes-security-lab) — restricted Pod Security, non-root workloads, default-deny networking, resource governance, and security regression tests
-- **Python Security Toolkit** — planned: small defensive automation and security utilities
+- [**Python Security Toolkit**](https://github.com/EmilAlizada/python-security-toolkit) — file integrity, cryptographic hashing, HTTP security headers, IOC extraction, authentication-log analysis, tests, and CLI automation
 
 The goal is **clear documentation, architecture decisions, reproducible setup, and security reasoning** rather than repository quantity.
 
