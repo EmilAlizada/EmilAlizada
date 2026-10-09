@@ -5,6 +5,8 @@
 <p align="center">
   <a href="mailto:alizadaemil404@gmail.com"><strong>Email</strong></a>
   ·
+  <a href="https://emilalizada.github.io/"><strong>Portfolio Website</strong></a>
+  ·
   <a href="https://github.com/EmilAlizada"><strong>GitHub</strong></a>
 </p>
 
